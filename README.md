@@ -1,4 +1,4 @@
-### Hi there 👋  My name is Alex and I am a Software Engineer!
+### Hi there 👋  my name is Alex and I am a Software Engineer!
 
 
 
