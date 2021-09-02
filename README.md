@@ -1,9 +1,12 @@
-### Hi there 👋  my name is Alex and I am a Software Engineer!
+### Hi there 👋  my name is Alex and I am an Android Developer!
 
 
 
 ## Technical Skills
 
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
@@ -19,8 +22,6 @@
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-
-- 🔭 I’m currently working on an IOS application that brings social media to life!
-- 🌱 I’m currently learning redux and node, you will see them in my projects very soon :) 
+ 
 - 📫 How to reach me: dapeshcode@gmail.com
 
